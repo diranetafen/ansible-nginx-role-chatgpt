@@ -1,4 +1,4 @@
-name: Collection build and tests
+name: OpenAI analysis
 
 on:
   push:
