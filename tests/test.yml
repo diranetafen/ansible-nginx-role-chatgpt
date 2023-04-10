@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - { role: ../ansible-nginx-role-chatgpt } 
+    - { role: ../../ansible-nginx-role-chatgpt } 
