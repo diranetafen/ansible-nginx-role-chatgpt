@@ -8,7 +8,7 @@ on:
 
 jobs:
   openai-analysis:
-    name: Build
+    name: openai
     runs-on: ${{ matrix.runner-os }}
     strategy:
       matrix:
